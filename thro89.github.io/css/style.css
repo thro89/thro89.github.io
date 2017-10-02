@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/* CSS Document */
+img{align-content: center;
+	border: solid 20px black;
+	margin: 2px;
+}
+p{
+	font-family: 'Ubuntu', sans-serif;
+}
+li{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+	text-align: center;
+	color: yellow;
+	background-color: red;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-style: dashed; 
+	font-family: 'Germania One', cursive;
+	}
+body{
+	background-position: center;
+	background-size: cover;
+}
+
+.detail h2{
+	text-align: center;
+	background-color: crimson;
+	border: dotted 5px;
+	width: 100px;
+	padding: 25px;
+	float: center;
+	margin: 5px;
+
+}
+.detail article{
+	background-color: lightseagreen;
+	width: 300px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+	
+	
+}
+.detail img{
+    display: block;
+    margin: 0 auto;
+}
+h3{
+	background-color: black;
+	color: yellow;
+	width: 100px;
+	text-align: inherit;
+	border: solid;
+	padding: 5px;
+	margin: 5px;
+	font-family: 'Germania One', cursive;
+}
+.list {
+	text-align: left;
+	background-color: beige;
+	display:inline-block;
+    position: left;
+    margin: 20px;
+    float:left;
+    width: calc(25% - 10px);
+    height:150px;
+}
+.list li{
+	text-align: left;
+	padding: 2px;
+	margin: 5px;
+}
+.stat p{
+	background-color: gold;
+    width: 300px;
+    border: 10px solid red;
+    padding: 30px;
+    margin: 30px;
+	float: none		
+}
+.contribute p{
+	background-color: floralwhite;
+	width: 75%;
+	padding: 20px;
+	margin: 1em;
+	border: inset .5em #6600DB;	
+}
+.contribute h3{
+	margin: 1em;
+}
+footer{
+	background-color: white;
+	height: 30px
+}
+.web{
+	
+}
+.web li{
+	display:inline;
+	padding: 5px;	
+}
+
+
